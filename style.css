@@ -1,0 +1,22 @@
+body {
+    font-size: 16px;
+}
+
+h1, body, footer{
+max-width:760px;
+margin: 0 auto;
+}
+
+h1, footer {
+    margin: .5rem;
+    border: 1px solid #bbb;
+    padding: .5rem;
+    background-color: rgba(168, 133, 18, 0.356);
+
+}
+
+body img{
+    float: right;
+    width: 200px;
+    height: auto;
+}
