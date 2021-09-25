@@ -14,9 +14,15 @@ h1, footer {
     background-color: rgba(168, 133, 18, 0.356);
 
 }
+header {
+    padding: 1.5rem;
+    text-align: center;
+}
 
 body img{
     float: right;
     width: 200px;
     height: auto;
+    margin-top: 30px;
+    margin-right: 30px;
 }
