@@ -1,1 +1,6 @@
-@media
+@media (min-width: 60em) {
+body {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+}
