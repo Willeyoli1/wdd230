@@ -1,8 +1,4 @@
-@media (min-width: m) {
-    body {
-        width: 200px;
+@media (min-width: 20em) {
+    div {
+        display: block;
     }
-
-       
-    }
-}
